@@ -1,0 +1,22 @@
+Oscilloscope Data File
+Experiment Time :   05-07-2025 14:35:36
+Number of frames: 39936
+
+Module: E-14-440 (6L809897)
+
+Number Of Channels : 3
+Input Rate In kHz: 10.000000
+Input Time In Sec: 3.993600
+Decimation: 1
+Data Format: Volts
+Time markers scale: секунды
+GPS time=00:00:00 00-00-0000
+GPS latitude=, latitude h=0
+GPS longitude=, longitude h=0
+Segments: 1
+Data as Time Sequence:
+                    Ch  1      Ch  2      Ch  3  
+                 Канал 1    Канал 2    Канал 3   
+
+       0.0000      -0.0037     -0.0041      0.0022
+       0.0001       0.0009      0.0013     -0.0022
